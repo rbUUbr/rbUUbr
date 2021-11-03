@@ -8,9 +8,9 @@ Hey there! My name is Kirill (aka _Kir_ _Kira_). My current stack is:
 * Ruby
 
 - 🔭 I’m currently working on
-  - creating Search Engine with help of _Golang_, _GraphQL_, _ElasticSearch_, _AWS_
+  - Building backend for weather forecast app with help of  _Golang_, _AWS_, _ServerLess_
 - 🌱 I’m currently learning
-  - GRPC, GoLang deeper 
+  - AWS, GoLang deeper 
 - 👯 I’m looking to collaborate on
   - any project that written on Golang/Ruby
 - 💬 Ask me about
