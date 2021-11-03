@@ -3,7 +3,7 @@
 Hey there! My name is Kirill (aka _Kir_ _Kira_). My current stack is:
 * GoLang
 * AWS + terraform 
-* Elasticsearch v7.1
+* Elasticsearch
 * GraphQL
 * Ruby
 
