@@ -16,5 +16,5 @@ Hey there! My name is Kirill (aka _Kir_ _Kira_). My current stack is:
 - 💬 Ask me about
   - _ElasticSearch_, _Computer Science_
 - 📫 How to reach me:
-  - twitter: twitter.com/mezhstr_ronin
+  - twitter: twitter.com/xharisma
 - ⚡ Fun fact: love dogs :D 
