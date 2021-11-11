@@ -8,7 +8,7 @@ Hey there! My name is Kirill (aka _Kir_ _Kira_). My current stack is:
 * Ruby
 
 - 🔭 I’m currently working on
-  - Building backend for weather forecast app with help of  _Golang_, _AWS_, _ServerLess_
+  - Building backend for smart health assistant for weather forecast app with help of  _Golang_, _AWS_, _ServerLess_
 - 🌱 I’m currently learning
   - AWS, GoLang deeper 
 - 👯 I’m looking to collaborate on
